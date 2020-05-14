@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Cockburn Advisory Services Ltd
+url: "https://cockburnadvisory.co.uk"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,20 +10,20 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+description: Contact details and information site for Cockburn Advisory.
+author: dug
+  name: Dug Falby
+  email: dug@cockburnadvisory.co.uk
+  twitter: dug # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: Cockburn is using Cloud Cannon's "Hydra" template for Jekyll
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/lrdj/cockburn
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: UTC+01:00
 
 collections:
   staff_members:
@@ -100,12 +100,13 @@ social_icons:
   - YouTube
   - RSS
 
+
 _comments:
-  map: Update the map location and display settings.
-  latitude: Coordinates for the center marker on the map.
-  longitude: Coordinates for the center marker on the map.
-  zoom: The zoom level for the map.
-  pricing_table: Update the information in the pricing tables.
-  highlight: Emphasis the text
-  color: The background colour used in the plan name and call to action.
-  new_window: Open link in new window
+  map: Edinburgh
+  latitude: 55.953252
+  longitude: -3.188267
+  zoom: 
+  pricing_table: 
+  highlight: 
+  color: 
+  new_window: 
