@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Cockburn Advisory Services Ltd
+title: "Cockburn Advisory Services Ltd"
 url: "https://cockburnadvisory.co.uk"
 baseurl:
 google_analytics_key:
@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Contact details and information site for Cockburn Advisory.
+description: "Contact details and information site for Cockburn Advisory."
 author: dug
-  name: Dug Falby
+  name: "Dug Falby"
   email: dug@cockburnadvisory.co.uk
   twitter: dug # twitter username without the @ symbol
 social:
-  name: Cockburn is using Cloud Cannon's "Hydra" template for Jekyll
+  name: "Cockburn is using Cloud Cannon's Hydra template for Jekyll"
   links:
     - https://github.com/lrdj/cockburn
 
