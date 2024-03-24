@@ -11,10 +11,12 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: "Contact details and information site for Cockburn Advisory."
-author: dug
+
+author:
   name: "Dug Falby"
   email: dug@cockburnadvisory.co.uk
   twitter: dug # twitter username without the @ symbol
+
 social:
   name: "Cockburn is using Cloud Cannon's Hydra template for Jekyll"
   links:
